@@ -1,0 +1,170 @@
+body {
+  font-size: 16px;
+}
+
+.navbar-brand img {
+  width: 100px;
+}
+
+.navbar-default {
+  background-color: black;
+  background-image: none;
+  margin-bottom: 0;
+}
+
+.container, .jumbotron {
+  text-align: center;
+}
+
+.personas {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.carousel-inner img {
+  width: 500px;
+  text-align: center;
+}
+
+.header {
+  position: absolute;
+  z-index: 1;
+  text-align: center;
+}
+
+#myCarousel {
+  height: 310px;
+  text-align: center;
+}
+
+.footer {
+  background-color: black;
+}
+
+.carousel-inner img {
+
+}
+
+
+/* ESTILO CSS 17NOV
+
+img {
+  width: 10%;
+  margin: 3% 7%;
+  float: left;
+}
+.portada {
+  background-image: url("img/nuevofondo.jpeg");
+  width: 100%;
+  height: 430px;
+  margin: 0;
+  display: inline-block;
+}
+.menu ul {
+  color: gray;
+  list-style: none;
+  margin-top: 4%;
+  margin-left: 70%;
+  margin-right: 0;
+  font-size: 16px;
+}
+li {
+  float: left;
+  margin-left: 50px;
+}
+.texto1 {
+  text-align: center;
+}
+.texto1 h1 {
+  color: white;
+  clear: both;
+  padding: 0 30px;
+}
+.portada p {
+  color: white;
+}
+.boton {
+  color: white;
+  border-radius: 5px;
+  height: 30px;
+  width: 125px;
+  display: inline-block;
+}
+.azul {
+  background-color: #5882FA;
+}
+.verde {
+  background-color: #04B431;
+}
+.boton a:link {
+  color: white;
+  text-decoration: none;
+}
+.desarrollo {
+  text-align: center;
+  margin: 5%;
+}
+.desarrollo p {
+  margin: 0 18%;
+}
+.desarrollo img {
+  display: inline-block;
+  position: relative;
+  top: -7px;
+  left: 370px;
+  width: 30%;
+  height: 50%;
+}
+ .inscripccion {
+   margin-top: 400px;
+   margin-bottom: 50px;
+   border-bottom: 1px solid black;
+   border-top: 1px solid black;
+   text-align: center;
+   background-color: #e6e6e6;
+   height: 300px;
+ }
+.inscripccion h3 {
+  padding: 50px 50px 0 50px;
+}
+.inscripccion p {
+  margin: 20px 20%;
+}
+.contacto {
+  width: 15%;
+  display: inline-block;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 450px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+.suscribete {
+  width: 30%;
+  display: inline-block;
+  box-sizing: border-box;
+  float: left;
+}
+.pie {
+  clear: both;
+}
+.suscribete a {
+  color: black;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 7px;
+}
+input {
+  border-radius: 10px;
+  padding: 7px;
+}
+.pie {
+  background-color: black;
+  color: white;
+  text-align: left;
+  height: 40px;
+  padding: 16px;
+  padding-left: 150px;
+}
+*/
