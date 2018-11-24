@@ -2,6 +2,10 @@ body {
   font-size: 16px;
 }
 
+h2 {
+  font-size: 25px;
+}
+
 .navbar-brand img {
   width: 100px;
 }
@@ -21,24 +25,39 @@ body {
   margin: 0 auto;
 }
 
+.carousel-inner {
+  width: 120%;
+}
 .carousel-inner img {
-  width: 500px;
-  text-align: center;
+  max-width: 100%;
 }
 
 .header {
   position: absolute;
   z-index: 1;
   text-align: center;
+  color: white;
+  padding: 0;
+  top: 40%;
 }
 
-#myCarousel {
-  height: 310px;
-  text-align: center;
+@media(max-width: 400px) {
+  .header {
+  top: 0;
+}
+}
+
+.informacion {
+  padding: 20px 70px;
+}
+.contacto {
+  margin: 30px;
 }
 
 .footer {
   background-color: black;
+  padding: 13px 0 0 0;
+  margin: 0;
 }
 
 .carousel-inner img {
